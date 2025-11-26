@@ -1,4 +1,6 @@
 # Histórico de Versões
+# V2.5.0 (versão final) - melhoria da tela home do barbeiro e do cliente e uma melhoria da pagina inicial
+---
 # V2.4.0 - Configurações de Acessibilidade e Melhoria na Responsividade para Mobile
 
 **Lançamento:** `Versão Atual`  
