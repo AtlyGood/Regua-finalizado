@@ -11,8 +11,8 @@ Deixar todas as telas do sistema mais bonitas, modernas e fáceis de usar, com u
 
 | O que foi melhorado | Descrição | Resultado |
 |---------------------|------------|-----------|
-| Visual de todas as telas | Cores e fontes padronizadas em todo o sistema | Aplicativo com cara de produto profissional |
-| Cartões e containers | Caixas com sombras e cantos arredondados | Visual mais moderno e organizado |
+| Visual das telas principais| Cores e fontes padronizadas em todo o sistema | Aplicativo com cara de produto profissional |
+| cards e containers | Caixas com sombras e cantos arredondados | Visual mais moderno e organizado |
 | Animações e efeitos | Transições suaves ao passar o mouse e clicar | Experiência mais agradável e fluida |
 | Ícones e símbolos | Ícones bonitos em todos os botões e campos | Interface mais clara e intuitiva |
 
@@ -20,7 +20,7 @@ Deixar todas as telas do sistema mais bonitas, modernas e fáceis de usar, com u
 - **Cores e temas:** Sistema mais fácil de personalizar cores
 - **Componentes padronizados:** Botões e campos iguais em todo o sistema
 - **Velocidade:** Telas carregam 35% mais rápido
-- **Celular:** Experiência muito melhor no mobile
+- **Celular:** Experiência melhorada no mobile
 
 ## Problemas Resolvidos
 - ~~Telas com visual diferente umas das outras~~
