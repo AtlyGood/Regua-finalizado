@@ -5,29 +5,29 @@
 **Status:** **Estável & Otimizada**
 
 ## Objetivo da Versão
-Implementar melhorias gráficas significativas em todas as interfaces principais, refinando a experiência visual e garantindo uma interface moderna, intuitiva e profissional para a versão de produção.
+Deixar todas as telas do sistema mais bonitas, modernas e fáceis de usar, com uma aparência profissional.
 
 ## Novidades Implementadas
 
-| Funcionalidade | Descrição | Impacto |
-|---------------|-----------|---------|
-| Design System Unificado | Padronização completa de cores, tipografia e componentes | Interface consistente e profissional em todas as telas |
-| Sistema de Cards Moderno | Containers visuais com sombras, bordas arredondadas e gradientes | Experiência visual mais atraente e organizada |
-| Animações e Micro-interações | Transições suaves e feedback visual imediato | Interface mais fluida e responsiva |
-| Ícones Vetoriais Integrados | Biblioteca FontAwesome para elementos visuais | Profissionalismo e clareza na interface |
+| O que foi melhorado | Descrição | Resultado |
+|---------------------|------------|-----------|
+| Visual de todas as telas | Cores e fontes padronizadas em todo o sistema | Aplicativo com cara de produto profissional |
+| Cartões e containers | Caixas com sombras e cantos arredondados | Visual mais moderno e organizado |
+| Animações e efeitos | Transições suaves ao passar o mouse e clicar | Experiência mais agradável e fluida |
+| Ícones e símbolos | Ícones bonitos em todos os botões e campos | Interface mais clara e intuitiva |
 
 ## Melhorias Técnicas
-- **CSS Variables Expandidas:** Sistema de theming mais robusto e flexível
-- **Componentes Reutilizáveis:** Botões, inputs e cards completamente padronizados
-- **Performance Otimizada:** Redução de 35% no tempo de carregamento
-- **Mobile-First Refinado:** Experiência mobile altamente otimizada
+- **Cores e temas:** Sistema mais fácil de personalizar cores
+- **Componentes padronizados:** Botões e campos iguais em todo o sistema
+- **Velocidade:** Telas carregam 35% mais rápido
+- **Celular:** Experiência muito melhor no mobile
 
 ## Problemas Resolvidos
-- ~~Design inconsistente entre diferentes telas~~
-- ~~Experiência visual desatualizada e pouco atraente~~
-- ~~Falta de identidade visual forte e consistente~~
-- ~~Feedback visual insuficiente para ações do usuário~~
-- ~~Navegação complexa em interfaces mobile~~
+- ~~Telas com visual diferente umas das outras~~
+- ~~Design antigo e sem atrativos~~
+- ~~Falta de uma identidade visual própria~~
+- ~~Pouca resposta visual quando o usuário clica~~
+- ~~Dificuldade para usar no celular~~
 ---
 # V2.4.0 - Configurações de Acessibilidade e Melhoria na Responsividade para Mobile
 
