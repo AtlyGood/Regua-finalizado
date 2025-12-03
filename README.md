@@ -30,7 +30,6 @@ Transformar o sistema Regua em uma plataforma totalmente acessível, garantindo 
 -  Controles de play/pause/stop
 -  Ajuste de velocidade em tempo real
 -  Destaque visual do texto sendo lido
--  Teclas de atalho para navegação rápida
 
 ### 3. **Interface Acessível**
 - **Botão de Acessibilidade Flutuante:** Posicionado sempre visível
@@ -53,7 +52,6 @@ Transformar o sistema Regua em uma plataforma totalmente acessível, garantindo 
 | **Deficiência Visual** | Leitor de texto com ajuste de velocidade | Permite navegação sem ver a tela |
 | **Baixa Visão** | Destaque visual do texto | Facilita acompanhamento da leitura |
 | **Deficiência Auditiva** | VLibras para tradução em Libras | Comunicação na língua nativa |
-| **Deficiência Motora** | Teclas de atalho e controles grandes | Reduz necessidade de precisão no mouse |
 | **Dislexia** | Velocidade de leitura ajustável | Permite ritmo personalizado |
 
 ## Problemas de Acessibilidade Resolvidos
