@@ -1,4 +1,6 @@
 # Histórico de Versões
+# V2.6.0 - adicionando vlibras e leitor de site para acessibilidade maior
+---
 # V2.5.0 - Melhoria Gráficas nas Telas de Login, Cadastro e Home do Barbeiro e Cliente
 
 **Lançamento:** `Versão Final`  
