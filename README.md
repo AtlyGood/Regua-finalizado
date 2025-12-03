@@ -26,11 +26,11 @@ Transformar o sistema Regua em uma plataforma totalmente acessível, garantindo 
 - Compatível com todos os navegadores modernos
 
 ### 2. **Leitor de Site Avançado**
-- ✅ Leitura de qualquer texto selecionado
-- ✅ Controles de play/pause/stop
-- ✅ Ajuste de velocidade em tempo real
-- ✅ Destaque visual do texto sendo lido
-- ✅ Teclas de atalho para navegação rápida
+-  Leitura de qualquer texto selecionado
+-  Controles de play/pause/stop
+-  Ajuste de velocidade em tempo real
+-  Destaque visual do texto sendo lido
+-  Teclas de atalho para navegação rápida
 
 ### 3. **Interface Acessível**
 - **Botão de Acessibilidade Flutuante:** Posicionado sempre visível
