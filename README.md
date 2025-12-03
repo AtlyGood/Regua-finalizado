@@ -63,7 +63,7 @@ Transformar o sistema Regua em uma plataforma totalmente acessível, garantindo 
 ---
 # V2.5.0 - Melhoria Gráficas nas Telas de Login, Cadastro e Home do Barbeiro e Cliente
 
-**Lançamento:** `Versão Final`  
+**Lançamento:** `Versão Anterior`  
 **Status:** **Estável & Otimizada**
 
 ## Objetivo da Versão
@@ -93,7 +93,7 @@ Deixar todas as telas do sistema mais bonitas, modernas e fáceis de usar, com u
 ---
 # V2.4.0 - Configurações de Acessibilidade e Melhoria na Responsividade para Mobile
 
-**Lançamento:** `Versão anterior`  
+**Lançamento:** `Versão Antiga`  
 **Status:** **Estável**
 
 ## Objetivo da Versão
