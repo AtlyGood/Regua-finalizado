@@ -1,5 +1,4 @@
 # Histórico de Versões
-# V2.6.0 - adicionando vlibras e leitor de site para acessibilidade maior
 
 # V2.6.0 - Acessibilidade Total: VLibras e Leitor de Site para Inclusão Digital
 
@@ -63,22 +62,6 @@ Transformar o sistema Regua em uma plataforma totalmente acessível, garantindo 
 - ~~Navegação difícil para pessoas com limitações motoras~~
 - ~~Falta de compatibilidade com leitores de tela~~
 - ~~Interface não adaptada para diferentes necessidades~~
-
-## Métricas de Acesso Ampliado
-- **+95%** de cobertura para deficiências visuais
-- **+100%** de inclusão da comunidade surda
-- **+85%** de facilidade para usuários com mobilidade reduzida
-- **Compatibilidade total** com tecnologias assistivas
-
-## Impacto Social
-- **Inclusão Digital:** Plataforma agora acessível a todos
-- **Autonomia:** Usuários com deficiência podem usar sem assistência
-- **Conformidade:** Atende às principais diretrizes de acessibilidade web
-- **Responsabilidade Social:** Demonstra compromisso com a inclusão
-
----
-
-**Nota:** Esta versão estabelece o Regua como referência em acessibilidade no segmento de agendamento de serviços, garantindo que nenhum cliente ou profissional fique excluído por limitações físicas ou sensoriais.
 ---
 # V2.5.0 - Melhoria Gráficas nas Telas de Login, Cadastro e Home do Barbeiro e Cliente
 
