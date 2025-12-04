@@ -1,5 +1,7 @@
 # Histórico de Versões
+# V2.7.0 - inclusão de um botão "esqueci senha" no login para usuario conseguir trocar senha 
 
+---
 # V2.6.0 - Acessibilidade Total: VLibras e Leitor de Site para Inclusão Digital
 
 **Lançamento:** `Versão Final`  
