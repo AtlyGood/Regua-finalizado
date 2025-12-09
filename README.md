@@ -1,4 +1,7 @@
 # Histórico de Versões
+# V2.8.0 - inclusão de pagina de suporte para clientes e barbeiros
+
+---
 # V2.7.0 - inclusão de um botão "esqueci senha" no login para usuario conseguir trocar senha 
 
 ---
