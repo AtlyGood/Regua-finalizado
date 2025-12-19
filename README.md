@@ -41,10 +41,10 @@ Criar uma Central de Ajuda completa e acessível para resolver dúvidas frequent
 
 ---
 
-# V2.7.0 - Sistema de Recuperação de Senha "Esqueci Minha Senha"
+# V2.7.0 - Sistema de Recuperação de Senha "Esqueci Minha Senha" (Demonstração)
 
 **Lançamento:** `Versão Anterior`  
-**Status:** **Estável & Implementada**
+**Status:** **Estável**
 
 ## Objetivo da Versão
 Implementar um fluxo seguro e intuitivo para recuperação de senha, permitindo que usuários redefinam suas credenciais de acesso de forma autônoma e segura.
