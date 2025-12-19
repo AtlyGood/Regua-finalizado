@@ -1,13 +1,92 @@
 # Histórico de Versões
-# V2.8.0 - inclusão de pagina de suporte para clientes e barbeiros
+# V2.8.0 - Inclusão de Página de Suporte para Clientes e Barbeiros
+
+**Lançamento:** `Versão Atual`  
+**Status:** **Estável & Implementada**
+
+## Objetivo da Versão
+Criar uma Central de Ajuda completa e acessível para resolver dúvidas frequentes tanto de clientes quanto de barbeiros, reduzindo a necessidade de contato direto e melhorando a experiência do usuário.
+
+## Novidades Implementadas
+
+| Funcionalidade | Descrição | Impacto |
+|---------------|-----------|---------|
+| **Página de Suporte Cliente** | FAQ específico para usuários da plataforma | Redução de dúvidas comuns de clientes |
+| **Página de Suporte Barbeiro** | FAQ voltado para estabelecimentos cadastrados | Suporte técnico para parceiros |
+| **Categorização Inteligente** | Divisão por tópicos (Clientes/Barbeiros/Ambos) | Navegação mais eficiente |
+| **Seção de Contato Direto** | Email de suporte sempre visível | Canal direto para questões complexas |
+| **Design Responsivo** | Interface adaptada para todos dispositivos | Acessibilidade total |
+
+## Melhorias Técnicas
+- **Templates Específicos:** `suporte.html` (cliente) e `suporte_barb.html` (barbeiro)
+- **Sistema de Categorias:** Alternância dinâmica entre FAQs
+- **Integração com Acessibilidade:** Leitor de texto e VLibras funcionais
+- **Menu Personalizado:** Links específicos para cada tipo de usuário
+- **SEO Otimizado:** Conteúdo estruturado para mecanismos de busca
+
+## Recursos de Apoio ao Usuário
+
+| Categoria | Principais Dúvidas Resolvidas |
+|-----------|-------------------------------|
+| **Clientes** | Como se cadastrar, entrar na fila, editar perfil, entender horário estimado |
+| **Barbeiros** | Como cadastrar barbearia, editar estabelecimento, estimar horários |
+| **Geral** | Problemas técnicos, contato com suporte, políticas de uso |
+
+## Problemas Resolvidos
+- ~~Falta de informações estruturadas para dúvidas frequentes~~
+- ~~Usuários perdendo tempo buscando soluções básicas~~
+- ~~Canais de suporte sobrecarregados com questões simples~~
+- ~~Experiência frustrante ao não encontrar ajuda imediata~~
+- ~~Ausência de documentação específica para barbeiros~~
 
 ---
-# V2.7.0 - inclusão de um botão "esqueci senha" no login para usuario conseguir trocar senha 
+
+# V2.7.0 - Sistema de Recuperação de Senha "Esqueci Minha Senha"
+
+**Lançamento:** `Versão Anterior`  
+**Status:** **Estável & Implementada**
+
+## Objetivo da Versão
+Implementar um fluxo seguro e intuitivo para recuperação de senha, permitindo que usuários redefinam suas credenciais de acesso de forma autônoma e segura.
+
+## Novidades Implementadas
+
+| Funcionalidade | Descrição | Impacto |
+|---------------|-----------|---------|
+| **Fluxo de 5 Etapas** | Email → Código → Nova Senha → Processamento → Confirmação | Segurança em camadas |
+| **Sistema de Código de 6 Dígitos** | Validação por email com código único | Prevenção contra acessos não autorizados |
+| **Validação em Tempo Real** | Verificação instantânea de regras de senha | Redução de erros no cadastro |
+| **Timer Regressivo** | Contagem regressiva para expiração do código | Segurança adicional |
+| **Integração Total** | Conexão completa com banco de dados | Alteração real das credenciais |
+
+## Melhorias Técnicas
+- **Backend Seguro:** Endpoint dedicado para redefinição de senha
+- **Validação de Email:** Verificação de existência no sistema
+- **Criptografia:** Senhas armazenadas de forma segura
+- **Persistência de Sessão:** Manutenção segura do fluxo de recuperação
+- **Feedback Visual:** Etapas claras e indicadores de progresso
+
+## Fluxo de Segurança
+
+| Etapa | Ação | Medida de Segurança |
+|-------|------|---------------------|
+| **1. Email** | Usuário informa email cadastrado | Verificação de existência no sistema |
+| **2. Código** | Envio de código único de 6 dígitos | Timer de 5 minutos para expiração |
+| **3. Nova Senha** | Definição de senha com mínimo 8 caracteres | Validação de força da senha |
+| **4. Processamento** | Atualização no banco de dados | Transação segura e registrada |
+| **5. Confirmação** | Feedback de sucesso e redirecionamento | Log de alteração gerado |
+
+## Problemas Resolvidos
+- ~~Usuários bloqueados por esquecimento de senha~~
+- ~~Necessidade de contato manual com administrador~~
+- ~~Falta de autonomia para recuperação de acesso~~
+- ~~Processo burocrático para redefinição de credenciais~~
+- ~~Ausência de método seguro para troca de senha~~
 
 ---
 # V2.6.0 - Acessibilidade Total: VLibras e Leitor de Site para Inclusão Digital
 
-**Lançamento:** `Versão Final`  
+**Lançamento:** `Versão Antiga`  
 **Status:** **Estável**
 
 ## Objetivo da Versão
@@ -68,7 +147,7 @@ Transformar o sistema Regua em uma plataforma totalmente acessível, garantindo 
 ---
 # V2.5.0 - Melhoria Gráficas nas Telas de Login, Cadastro e Home do Barbeiro e Cliente
 
-**Lançamento:** `Versão Anterior`  
+**Lançamento:** `Versão Antiga`  
 **Status:** **Estável & Otimizada**
 
 ## Objetivo da Versão
